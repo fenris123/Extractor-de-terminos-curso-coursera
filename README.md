@@ -1,5 +1,10 @@
 [![CI](https://github.com/nogibjj/coursera-applied-data-eng-projects/actions/workflows/cicd.yml/badge.svg)](https://github.com/nogibjj/coursera-applied-data-eng-projects/actions/workflows/cicd.yml)
 
+#NOTAS PARA MI: Repositorio copiado del curso de coursera para uso personal. 
+
+Interesante particularmente el archivo Python  Main.py, con un extractor de terminos que ademas puede ser usado en la consola.
+
+
 ## Projects for Specialization
 
 ### ETL (Extract, Transform, Load)
